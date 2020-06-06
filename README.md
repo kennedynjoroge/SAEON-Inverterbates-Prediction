@@ -1,4 +1,4 @@
-#SAEON - Identifying marine invertebrates
+# SAEON - Identifying marine invertebrates
 
 ### Objective
 
@@ -6,7 +6,7 @@ The objective of the challenge is to correctly classify images of deep sea inver
 
 Challenge: https://zindi.africa/hackathons/umojahack-1-saeon-identifying-marine-invertebrates/data
 
-Ended up in position 15 rank.
+Ended up in position 15 on leaderboard.
 
 ### Metric for success
 - Log loss
